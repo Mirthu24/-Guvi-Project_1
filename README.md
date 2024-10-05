@@ -17,4 +17,4 @@ In this project, I have used several tools like Python, Selenium, Pandas, MySQL,
 
 Finally, Streamlit is used to develop an interactive web application, providing a user-friendly framework for data visualization and analysis, combining data from all states to enhance user convenience.
 
-![image]('C:/Users/new/Pictures/Screenshots/Screenshot (8).png')
+
