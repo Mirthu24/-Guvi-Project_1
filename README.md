@@ -15,6 +15,6 @@ In this project, I have used several tools like Python, Selenium, Pandas, MySQL,
 
 **MySQL** establishes a connection to a SQL database, facilitating seamless integration and efficient insertion of data into relevant tables for storage and retrieval. 
 
-Finally, Streamlit is used to develop an interactive web application, providing a user-friendly framework for data visualization and analysis, combining data from all states to enhance user convenience.
+Finally, **Streamlit** is used to develop an interactive web application, providing a user-friendly framework for data visualization and analysis, combining data from all states to enhance user convenience.
 
 
